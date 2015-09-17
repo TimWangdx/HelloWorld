@@ -6,3 +6,8 @@ int main()
 	printf("i = %i",i); 
 	return 0;
 }
+
+void test(int i)
+{
+    printf("i = %i",i);
+}
